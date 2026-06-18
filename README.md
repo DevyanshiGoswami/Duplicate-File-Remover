@@ -1,0 +1,2 @@
+# duplifile
+Duplicate File Remover
