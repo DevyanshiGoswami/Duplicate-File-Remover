@@ -65,6 +65,6 @@ The system successfully identifies duplicate files across multiple formats and r
 * REST API integration
 * Cloud storage support
 * Distributed duplicate detection  
-<img width="532" height="309" alt="figure3" src="https://github.com/user-attachments/assets/13af6335-ff45-4eed-8271-f45bc21af117" />Image of duplicate files.
-<img width="525" height="185" alt="figure4" src="https://github.com/user-attachments/assets/bfbfbb1d-618c-4f66-a906-63ddae4518b1" />
+<img width="532" height="309" alt="figure3" src="https://github.com/user-attachments/assets/13af6335-ff45-4eed-8271-f45bc21af117" />  Image of duplicate files.  
+<img width="525" height="185" alt="figure4" src="https://github.com/user-attachments/assets/bfbfbb1d-618c-4f66-a906-63ddae4518b1" />  
 After we run the code all Duplicates Files are removed.
